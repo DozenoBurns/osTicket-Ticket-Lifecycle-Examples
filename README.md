@@ -30,25 +30,28 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="733" alt="Screenshot Created new help topics in osticket" src="https://github.com/user-attachments/assets/ab303f27-0d9d-47d0-9c2c-5b5c04f5ef1b" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot shows a simulated help desk ticket in the osTicket system. It displays ticket details, including the issue description, status, and assigned agent, providing insight into how support requests are managed and tracked.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="758" alt="Screenshot created SLA Plans SEV-A,B,C" src="https://github.com/user-attachments/assets/5b9a09c8-3e4f-4cb2-9f41-e5b927bc53d4" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot illustrates the creation of Service Level Agreements (SLAs) categorized into Severity A, B, and C. It shows the process of monitoring simulated help desk tickets, analyzing their urgency, and responding accordingly. Additionally, it demonstrates forwarding tickets to the appropriate department to ensure efficient issue resolution.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="746" alt="Screenshot observing created ticket as help desk user" src="https://github.com/user-attachments/assets/bd0e2b81-cc5c-4fe9-b1bb-bc5310d585f6" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot shows a simulated help desk ticket in the osTicket system. It displays ticket details, including the issue description, status, and assigned agent, providing insight into how support requests are managed and tracked.
 </p>
 <br />
